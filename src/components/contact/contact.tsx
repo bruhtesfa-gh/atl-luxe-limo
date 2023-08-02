@@ -26,7 +26,7 @@ const Contact = () => {
         }
 
         axios.post(
-            'https://limo-backend.onrender.com/mail',
+            'https://atl-luxe-limo-server.onrender.com/mail',
             {
                 name,
                 email,
