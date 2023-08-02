@@ -77,7 +77,7 @@ const Home = () => {
                                     }}
                                 />
                                 <span className="elementor-heading-title elementor-size-default">
-                                    Seattle Limo
+                                    ATL Luxe Limo
                                 </span>
                             </div>
                         </div>
@@ -101,7 +101,7 @@ const Home = () => {
                         >
                             <div className="elementor-widget-container">
                                 <h2 className="elementor-heading-title elementor-size-default">
-                                    <b>Best Liimo in seattle</b>
+                                    <b>Best Liimo in atlanta</b>
                                 </h2>
                             </div>
                         </div>
@@ -193,7 +193,7 @@ const Home = () => {
                                         >
                                             <div className="elementor-widget-container">
                                                 <h1 className="elementor-heading-title elementor-size-default">
-                                                    Seattle Limousine
+                                                    ATL Luxe Limousine
                                                 </h1>
                                             </div>
                                         </div>
@@ -211,7 +211,7 @@ const Home = () => {
                                                     }}
                                                 />
                                                 <p>
-                                                    Seattle Limosine Service has been providing premier ground transportation throughout the Seattle metropolitan area for over 15 years. Our well-maintained, luxurious fleet and professional, courteous chauffeurs are ready to make your special event truly memorable. Whether you need airport transportation, a wedding or party limo, or a towncar for business, trust Seattle Limousine Service to exceed your expectations. Contact us today to reserve your luxury vehicle.
+                                                    ATL Luxe Limousine Service has been catering to the transportation needs of the Atlanta metropolitan area for more than 15 years. With our fleet of impeccably maintained and luxurious vehicles, along with our team of skilled and polite chauffeurs, we are dedicated to making your special moments truly unforgettable. Whether you need transportation to the airport, a lavish limo for a wedding or celebration, or an elegant towncar for your business engagements, you can rely on ATL Luxe Limousine Service to go above and beyond your expectations. Contact us today to secure your reservation for an exquisite and unparalleled travel experience.
                                                 </p>
                                             </div>
                                         </div>
@@ -470,7 +470,7 @@ const Home = () => {
                             <div className="elementor-widget-container">
                                 <p>
                                     Call us today and take advantage our great deals and special
-                                    promotions in the Seattle region and surrounding
+                                    promotions in the Atlanta region and surrounding
                                     communities.{" "}
                                 </p>
                                 <p>

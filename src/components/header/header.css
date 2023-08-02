@@ -59,12 +59,12 @@
 
 .elementor-66 .elementor-element.elementor-element-5906e24 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
 .elementor-66 .elementor-element.elementor-element-5906e24 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after {
-    background-color: #dcb57e;
+    background-color: #1e90ff;
 }
 
 .elementor-66 .elementor-element.elementor-element-5906e24 .e--pointer-framed .elementor-item:before,
 .elementor-66 .elementor-element.elementor-element-5906e24 .e--pointer-framed .elementor-item:after {
-    border-color: #dcb57e;
+    border-color: #1e90ff;
 }
 
 .elementor-66 .elementor-element.elementor-element-5906e24 .elementor-nav-menu--main .elementor-item.elementor-item-active {
@@ -73,12 +73,12 @@
 
 .elementor-66 .elementor-element.elementor-element-5906e24 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item.elementor-item-active:before,
 .elementor-66 .elementor-element.elementor-element-5906e24 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item.elementor-item-active:after {
-    background-color: #dcb57e;
+    background-color: #1e90ff;
 }
 
 .elementor-66 .elementor-element.elementor-element-5906e24 .e--pointer-framed .elementor-item.elementor-item-active:before,
 .elementor-66 .elementor-element.elementor-element-5906e24 .e--pointer-framed .elementor-item.elementor-item-active:after {
-    border-color: #dcb57e;
+    border-color: #1e90ff;
 }
 
 .elementor-66 .elementor-element.elementor-element-5906e24 .e--pointer-framed .elementor-item:before {
@@ -152,12 +152,12 @@
 .elementor-66 .elementor-element.elementor-element-4def12ab .elementor-button {
     font-family: "Redressed", Sans-serif;
     font-size: 20px;
-    fill: #E9C79E;
-    color: #E9C79E;
+    fill: #1e90ff;
+    color: #1e90ff;
     background-color: rgba(255, 255, 255, 0);
     border-style: solid;
     border-width: 1px 1px 1px 1px;
-    border-color: #E9C79E;
+    border-color: #1e90ff;
     border-radius: 10px 10px 10px 10px;
     box-shadow: 0px 10px 30px -9px rgba(0, 0, 0, 0.16);
     padding: 12px 30px 12px 30px;
@@ -166,7 +166,7 @@
 .elementor-66 .elementor-element.elementor-element-4def12ab .elementor-button:hover,
 .elementor-66 .elementor-element.elementor-element-4def12ab .elementor-button:focus {
     color: #15162C;
-    background-color: #e9c79e;
+    background-color: #1e90ff;
     border-color: #e8ad66;
 }
 

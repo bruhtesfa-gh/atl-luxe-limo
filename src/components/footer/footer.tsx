@@ -184,7 +184,7 @@ const Footer = () => {
                             <div className="elementor-widget-container">
                                 <p>
                                     <em>
-                                        <strong>Seattle Limo Services</strong>
+                                        <strong>ATL Luxe Limo Services</strong>
                                     </em>
                                 </p>
                                 <p>
@@ -306,7 +306,7 @@ const Footer = () => {
                                         <i>+1 123-456-7890</i>
                                     </b>
                                 </p>
-                                <p>info@seattle-skyline-limo.com</p>
+                                <p>info@atlluxelimo.com</p>
                             </div>
                         </div>
                     </div>
@@ -334,7 +334,7 @@ const Footer = () => {
                             data-widget_type="text-editor.default"
                         >
                             <div className="elementor-widget-container">
-                                <p>© Copyright 2022 Seattle Limo. All Rights Reserved. </p>
+                                <p>© Copyright 2022 ATL Luxe Limo. All Rights Reserved. </p>
                             </div>
                         </div>
                     </div>

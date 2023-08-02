@@ -37,7 +37,7 @@
 }
 
 .elementor-90 .elementor-element.elementor-element-28f6e201 .elementor-heading-title {
-    color: #e9c79e;
+    color: #1e90ff;
     font-family: "Arizonia", Sans-serif;
     font-size: 165px;
     font-weight: 100;
@@ -92,7 +92,7 @@ body.rtl .elementor-90 .elementor-element.elementor-element-2c5b92bb {
 }
 
 .elementor-90 .elementor-element.elementor-element-2c5b92bb>.elementor-widget-container {
-    background-color: #E9C79E;
+    background-color: #1e90ff;
 }
 
 .elementor-90 .elementor-element.elementor-element-233b2348:not(.elementor-motion-effects-element-type-background),
@@ -146,7 +146,7 @@ body.rtl .elementor-90 .elementor-element.elementor-element-2c5b92bb {
 }
 
 .elementor-90 .elementor-element.elementor-element-e0d5dd1 .elementor-heading-title {
-    color: #dcb57e;
+    color: #1e90ff;
     font-family: "Redressed", Sans-serif;
     font-size: 75px;
     font-weight: 500;
@@ -162,7 +162,7 @@ body.rtl .elementor-90 .elementor-element.elementor-element-2c5b92bb {
 
 .elementor-90 .elementor-element.elementor-element-7b1c7f59 {
     --divider-border-style: solid;
-    --divider-color: #dcb57e;
+    --divider-color: #1e90ff;
     --divider-border-width: 2px;
 }
 
@@ -214,7 +214,7 @@ body.rtl .elementor-90 .elementor-element.elementor-element-2c5b92bb {
 
 .elementor-90 .elementor-element.elementor-element-15e84f9 {
     --divider-border-style: solid;
-    --divider-color: #dcb57e;
+    --divider-color: #1e90ff;
     --divider-border-width: 3px;
 }
 
@@ -261,7 +261,7 @@ body.rtl .elementor-90 .elementor-element.elementor-element-2c5b92bb {
 
 .elementor-90 .elementor-element.elementor-element-3a5c7ec3 {
     --divider-border-style: solid;
-    --divider-color: #dcb57e;
+    --divider-color: #1e90ff;
     --divider-border-width: 3px;
 }
 
@@ -330,16 +330,16 @@ body .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-labe
 
 .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
     background-color: #ffffff;
-    border-color: #dcb57e;
+    border-color: #1e90ff;
 }
 
 .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-field-group .elementor-select-wrapper select {
     background-color: #ffffff;
-    border-color: #dcb57e;
+    border-color: #1e90ff;
 }
 
 .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-field-group .elementor-select-wrapper::before {
-    color: #dcb57e;
+    color: #1e90ff;
 }
 
 .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-button {
@@ -366,12 +366,12 @@ body .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-labe
 }
 
 .elementor-90 .elementor-element.elementor-element-6eb9e7af .e-form__buttons__wrapper__button-next:hover {
-    background-color: #dcb57e;
+    background-color: #1e90ff;
     color: #ffffff;
 }
 
 .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-button[type="submit"]:hover {
-    background-color: #dcb57e;
+    background-color: #1e90ff;
     color: #ffffff;
 }
 
@@ -455,7 +455,7 @@ body .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-labe
 }
 
 .elementor-90 .elementor-element.elementor-element-2b23b52d .elementor-heading-title {
-    color: #dcb57e;
+    color: #1e90ff;
     font-family: "Redressed", Sans-serif;
     font-size: 75px;
     letter-spacing: 1.5px;
@@ -478,14 +478,14 @@ body .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-labe
 }
 
 .elementor-90 .elementor-element.elementor-element-79764363.elementor-view-stacked .elementor-icon {
-    background-color: #DCB57E;
+    background-color: #1e90ff;
 }
 
 .elementor-90 .elementor-element.elementor-element-79764363.elementor-view-framed .elementor-icon,
 .elementor-90 .elementor-element.elementor-element-79764363.elementor-view-default .elementor-icon {
-    fill: #DCB57E;
-    color: #DCB57E;
-    border-color: #DCB57E;
+    fill: #1e90ff;
+    color: #1e90ff;
+    border-color: #1e90ff;
 }
 
 .elementor-90 .elementor-element.elementor-element-79764363 {
@@ -497,7 +497,7 @@ body .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-labe
 }
 
 .elementor-90 .elementor-element.elementor-element-79764363 .elementor-icon-box-title {
-    color: #DCB57E;
+    color: #1e90ff;
 }
 
 .elementor-90 .elementor-element.elementor-element-79764363 .elementor-icon-box-title,
@@ -515,14 +515,14 @@ body .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-labe
 }
 
 .elementor-90 .elementor-element.elementor-element-494e7e13.elementor-view-stacked .elementor-icon {
-    background-color: #DCB57E;
+    background-color: #1e90ff;
 }
 
 .elementor-90 .elementor-element.elementor-element-494e7e13.elementor-view-framed .elementor-icon,
 .elementor-90 .elementor-element.elementor-element-494e7e13.elementor-view-default .elementor-icon {
-    fill: #DCB57E;
-    color: #DCB57E;
-    border-color: #DCB57E;
+    fill: #1e90ff;
+    color: #1e90ff;
+    border-color: #1e90ff;
 }
 
 .elementor-90 .elementor-element.elementor-element-494e7e13 {
@@ -534,7 +534,7 @@ body .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-labe
 }
 
 .elementor-90 .elementor-element.elementor-element-494e7e13 .elementor-icon-box-title {
-    color: #DCB57E;
+    color: #1e90ff;
 }
 
 .elementor-90 .elementor-element.elementor-element-494e7e13 .elementor-icon-box-title,
@@ -551,14 +551,14 @@ body .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-labe
 }
 
 .elementor-90 .elementor-element.elementor-element-1e2e6fc8.elementor-view-stacked .elementor-icon {
-    background-color: #DCB57E;
+    background-color: #1e90ff;
 }
 
 .elementor-90 .elementor-element.elementor-element-1e2e6fc8.elementor-view-framed .elementor-icon,
 .elementor-90 .elementor-element.elementor-element-1e2e6fc8.elementor-view-default .elementor-icon {
-    fill: #DCB57E;
-    color: #DCB57E;
-    border-color: #DCB57E;
+    fill: #1e90ff;
+    color: #1e90ff;
+    border-color: #1e90ff;
 }
 
 .elementor-90 .elementor-element.elementor-element-1e2e6fc8 {
@@ -570,7 +570,7 @@ body .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-labe
 }
 
 .elementor-90 .elementor-element.elementor-element-1e2e6fc8 .elementor-icon-box-title {
-    color: #DCB57E;
+    color: #1e90ff;
 }
 
 .elementor-90 .elementor-element.elementor-element-1e2e6fc8 .elementor-icon-box-title,
@@ -588,7 +588,7 @@ body .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-labe
 
 .elementor-90 .elementor-element.elementor-element-4dcba748 {
     --divider-border-style: solid;
-    --divider-color: #dcb57e;
+    --divider-color: #1e90ff;
     --divider-border-width: 2px;
 }
 
@@ -622,7 +622,7 @@ body .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-labe
 
 .elementor-90 .elementor-element.elementor-element-1a4f3e78 {
     --divider-border-style: solid;
-    --divider-color: #dcb57e;
+    --divider-color: #1e90ff;
     --divider-border-width: 3px;
 }
 
@@ -853,7 +853,7 @@ body .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-labe
 
 .elementor-90 .elementor-element.elementor-element-1c8de2e8 {
     --divider-border-style: solid;
-    --divider-color: #dcb57e;
+    --divider-color: #1e90ff;
     --divider-border-width: 3px;
 }
 
@@ -888,9 +888,9 @@ body .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-labe
     font-family: "Redressed", Sans-serif;
     width: auto !important;
     font-size: 25px;
-    fill: #DCB57E;
-    color: #DCB57E;
-    border: 2px solid #DCB57E;
+    fill: #1e90ff;
+    color: #1e90ff;
+    border: 2px solid #1e90ff;
     background-color: #15162c27;
     padding: 10px 30px 10px 30px;
 }
@@ -898,8 +898,8 @@ body .elementor-90 .elementor-element.elementor-element-6eb9e7af .elementor-labe
 .elementor-90 .elementor-element .elementor-button-book:hover {
     fill: #FFFFFF;
     color: #FFFFFF;
-    border: 2px solid #DCB57E;
-    background-color: #DCB57E;
+    border: 2px solid #1e90ff;
+    background-color: #1e90ff;
 }
 
 .elementor-image-box-link {

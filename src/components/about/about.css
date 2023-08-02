@@ -29,7 +29,7 @@
 }
 
 .elementor-87 .elementor-element.elementor-element-5f3e8c69 .elementor-heading-title {
-    color: #E9C79E;
+    color: #1e90ff;
     font-family: "Arizonia", Sans-serif;
     font-size: 20em;
 }
@@ -45,7 +45,7 @@
 
 .elementor-87 .elementor-element.elementor-element-b3ffdd9 {
     --divider-border-style: solid;
-    --divider-color: #dcb57e;
+    --divider-color: #1e90ff;
     --divider-border-width: 3px;
 }
 
@@ -62,7 +62,7 @@
 }
 
 .elementor-87 .elementor-element.elementor-element-57b1751c .elementor-heading-title {
-    color: #E9C79E;
+    color: #1e90ff;
     font-family: "Montserrat", Sans-serif;
     font-size: 75px;
     letter-spacing: -3.5px;
@@ -181,7 +181,7 @@
 
 .elementor-87 .elementor-element.elementor-element-263441ad {
     --divider-border-style: solid;
-    --divider-color: #dcb57e;
+    --divider-color: #1e90ff;
     --divider-border-width: 2px;
 }
 
@@ -219,7 +219,7 @@
 
 .elementor-87 .elementor-element.elementor-element-3b82802d {
     --divider-border-style: solid;
-    --divider-color: #dcb57e;
+    --divider-color: #1e90ff;
     --divider-border-width: 3px;
 }
 
@@ -420,7 +420,7 @@
 
 .elementor-87 .elementor-element.elementor-element-76eb410a {
     --divider-border-style: solid;
-    --divider-color: #dcb57e;
+    --divider-color: #1e90ff;
     --divider-border-width: 3px;
 }
 
@@ -493,16 +493,16 @@ body .elementor-87 .elementor-element.elementor-element-131d4f79 .elementor-labe
 
 .elementor-87 .elementor-element.elementor-element-131d4f79 .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
     background-color: #ffffff;
-    border-color: #dcb57e;
+    border-color: #1e90ff;
 }
 
 .elementor-87 .elementor-element.elementor-element-131d4f79 .elementor-field-group .elementor-select-wrapper select {
     background-color: #ffffff;
-    border-color: #dcb57e;
+    border-color: #1e90ff;
 }
 
 .elementor-87 .elementor-element.elementor-element-131d4f79 .elementor-field-group .elementor-select-wrapper::before {
-    color: #dcb57e;
+    color: #1e90ff;
 }
 
 .elementor-87 .elementor-element.elementor-element-131d4f79 .elementor-button {
@@ -529,12 +529,12 @@ body .elementor-87 .elementor-element.elementor-element-131d4f79 .elementor-labe
 }
 
 .elementor-87 .elementor-element.elementor-element-131d4f79 .e-form__buttons__wrapper__button-next:hover {
-    background-color: #dcb57e;
+    background-color: #1e90ff;
     color: #ffffff;
 }
 
 .elementor-87 .elementor-element.elementor-element-131d4f79 .elementor-button[type="submit"]:hover {
-    background-color: #dcb57e;
+    background-color: #1e90ff;
     color: #ffffff;
 }
 

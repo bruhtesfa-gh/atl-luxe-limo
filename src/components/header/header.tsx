@@ -7,49 +7,49 @@ const Header = () => {
     useEffect(() => {
         switch (window.location.href.split('/')[3]) {
             case 'about':
-                document.title = 'About Us | Seattle Limo';
+                document.title = 'About Us | ATL Luxe Limo';
                 setPath('/about')
                 break;
             case 'services':
-                document.title = 'Services | Seattle Limo';
+                document.title = 'Services | ATL Luxe Limo';
                 setPath('/services')
                 break;
             case 'contact':
-                document.title = 'Contact Us | Seattle Limo';
+                document.title = 'Contact Us | ATL Luxe Limo';
                 setPath('/contact')
                 break;
             case 'blogs':
-                document.title = 'Blogs | Seattle Limo';
+                document.title = 'Blogs | ATL Luxe Limo';
                 setPath('/blogs')
                 break;
             case 'fleets':
-                document.title = 'Fleets | Seattle Limo';
+                document.title = 'Fleets | ATL Luxe Limo';
                 setPath('/fleets')
                 break;
             default:
-                document.title = 'Seattle Limo';
+                document.title = 'ATL Luxe Limo';
                 setPath('/')
         }
     }, [])
     useEffect(() => {
         switch (path) {
             case '/about':
-                document.title = 'About Us | Seattle Limo';
+                document.title = 'About Us | ATL Luxe Limo';
                 break;
             case '/services':
-                document.title = 'Services | Seattle Limo';
+                document.title = 'Services | ATL Luxe Limo';
                 break;
             case '/contact':
-                document.title = 'Contact Us | Seattle Limo';
+                document.title = 'Contact Us | ATL Luxe Limo';
                 break;
             case '/blogs':
-                document.title = 'Blogs | Seattle Limo';
+                document.title = 'Blogs | ATL Luxe Limo';
                 break;
             case '/fleets':
-                document.title = 'Fleets | Seattle Limo';
+                document.title = 'Fleets | ATL Luxe Limo';
                 break;
             default:
-                document.title = 'Seattle Limo';
+                document.title = 'ATL Luxe Limo';
         }
     }, [path])
 

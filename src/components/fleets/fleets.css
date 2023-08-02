@@ -21,13 +21,13 @@
 
 .elementor-74 .elementor-element.elementor-element-1c8de2e8 {
     --divider-border-style: solid;
-    --divider-color: #dcb57e;
+    --divider-color: #1e90ff;
     --divider-border-width: 3px;
 }
 
 .elementor-74 .elementor-element.elementor-element-15e84f9 {
     --divider-border-style: solid;
-    --divider-color: #dcb57e;
+    --divider-color: #1e90ff;
     --divider-border-width: 3px;
 }
 
@@ -60,7 +60,7 @@
 
 .elementor-74 .elementor-element.elementor-element-686f104e {
     --divider-border-style: solid;
-    --divider-color: #dcb57e;
+    --divider-color: #1e90ff;
     --divider-border-width: 2px;
 }
 
@@ -68,9 +68,9 @@
     font-family: "Redressed", Sans-serif;
     width: auto !important;
     font-size: 25px;
-    fill: #DCB57E;
-    color: #DCB57E;
-    border: 2px solid #DCB57E;
+    fill: #1e90ff;
+    color: #1e90ff;
+    border: 2px solid #1e90ff;
     background-color: #15162c27;
     padding: 10px 30px 10px 30px;
 }
@@ -78,8 +78,8 @@
 .elementor-74 .elementor-element .elementor-button-book:hover {
     fill: #FFFFFF;
     color: #FFFFFF;
-    border: 2px solid #DCB57E;
-    background-color: #DCB57E;
+    border: 2px solid #1e90ff;
+    background-color: #1e90ff;
 }
 
 .elementor-74 .elementor-element.elementor-element-686f104e {
