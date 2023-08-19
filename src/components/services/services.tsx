@@ -1,11 +1,5 @@
 import { Link, NavLink } from "react-router-dom";
 import "./services.css";
-import i1 from "../../assets/images/beautiful-wedding-couple.jpg";
-import i2 from "../../assets/images/businesswoman-doing-business-paperwork-on-car-back-seat.jpg";
-import i3 from "../../assets/images/car-on-a-road-in-a-national-park.jpg";
-import i4 from "../../assets/images/airport-at-sunrise.jpg";
-import i5 from "../../assets/images/group-of-friends-having-fun-and-celebrating-group-gathering.jpg";
-import i6 from "../../assets/images/booze-and-fun.jpg";
 import { useEffect, useState } from "react";
 import { getServices } from "../../api/api";
 import Spinner from "../loading/loading";
@@ -275,18 +269,7 @@ const Services = () => {
         {loading ? (
           <Spinner />
         ) : (
-          [
-            {
-              img: i1,
-              id: 1,
-              text: "Wedding hefmlkfdsssss dsa dsa dgfds gnlngsd Package",
-            },
-            { id: 2, img: i2, text: "Airport Transportation" },
-            { id: 3, img: i3, text: "Group Transportation" },
-            { id: 4, img: i4, text: "Night Services" },
-            { id: 5, img: i5, text: "Custom Prom Package" },
-            { id: 6, img: i6, text: "Roadshow" },
-          ].map(({ img, text, id }) => {
+          services.map(({ img, text, id }) => {
             return (
               <Link to={String(id)} className="service-container">
                 <div className="service-overlay" />
