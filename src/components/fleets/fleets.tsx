@@ -42,6 +42,7 @@ const Fleets = () => {
         description: comments == "" ? "No comments" : comments,
         luggageCount: +luggage,
         personCount: +passengers,
+        driverGender,
         toAddress: pickup,
         fromAddress: dropoff,
         phoneNumber: phone,
