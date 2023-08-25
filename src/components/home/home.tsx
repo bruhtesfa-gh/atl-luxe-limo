@@ -101,7 +101,7 @@ const Home = () => {
                         >
                             <div className="elementor-widget-container">
                                 <h2 className="elementor-heading-title elementor-size-default">
-                                    <b>Best Liimo in atlanta</b>
+                                    <b>Best Liimo in Seattle</b>
                                 </h2>
                             </div>
                         </div>
@@ -211,7 +211,7 @@ const Home = () => {
                                                     }}
                                                 />
                                                 <p>
-                                                    ATL Luxe Limousine Service has been catering to the transportation needs of the Atlanta metropolitan area for more than 15 years. With our fleet of impeccably maintained and luxurious vehicles, along with our team of skilled and polite chauffeurs, we are dedicated to making your special moments truly unforgettable. Whether you need transportation to the airport, a lavish limo for a wedding or celebration, or an elegant towncar for your business engagements, you can rely on ATL Luxe Limousine Service to go above and beyond your expectations. Contact us today to secure your reservation for an exquisite and unparalleled travel experience.
+                                                    ATL Luxe Limousine Service has been catering to the transportation needs of the Seattle metropolitan area for more than 15 years. With our fleet of impeccably maintained and luxurious vehicles, along with our team of skilled and polite chauffeurs, we are dedicated to making your special moments truly unforgettable. Whether you need transportation to the airport, a lavish limo for a wedding or celebration, or an elegant towncar for your business engagements, you can rely on ATL Luxe Limousine Service to go above and beyond your expectations. Contact us today to secure your reservation for an exquisite and unparalleled travel experience.
                                                 </p>
                                             </div>
                                         </div>
@@ -470,7 +470,7 @@ const Home = () => {
                             <div className="elementor-widget-container">
                                 <p>
                                     Call us today and take advantage our great deals and special
-                                    promotions in the Atlanta region and surrounding
+                                    promotions in the Seatle region and surrounding
                                     communities.{" "}
                                 </p>
                                 <p>
